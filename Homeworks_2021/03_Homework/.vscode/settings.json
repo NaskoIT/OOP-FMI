@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "iterator": "cpp",
+        "memory": "cpp",
+        "streambuf": "cpp",
+        "vector": "cpp",
+        "xfacet": "cpp",
+        "xlocale": "cpp",
+        "xlocnum": "cpp",
+        "xmemory": "cpp",
+        "xstring": "cpp",
+        "xutility": "cpp"
+    }
+}
